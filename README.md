@@ -1,4 +1,4 @@
-# FPGA CNN Accelerator
+# FPGA CNN Accelerator for light weight models
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
